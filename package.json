@@ -10,8 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@aws-amplify/ui-react": "^6.5.5",
-    "aws-amplify": "^6.8.1",
+    "aws-amplify": "^6.8.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
@@ -22,8 +21,8 @@
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "@vitejs/plugin-react": "^4.3.3",
-    "aws-cdk": "^2.166.0",
-    "aws-cdk-lib": "^2.166.0",
+    "aws-cdk": "^2.167.1",
+    "aws-cdk-lib": "^2.167.1",
     "constructs": "^10.4.2",
     "esbuild": "^0.24.0",
     "eslint": "^9.13.0",
